@@ -1,0 +1,21 @@
+.main1 {
+    background-color:antiquewhite;
+    padding:50px ;
+    
+
+}
+
+.sol{
+    display: flex;
+}
+.main2 {
+background-color: beige;
+padding: 50px;
+    
+  }
+  .start{
+      margin: 20px;
+    
+      padding: 40px;
+      background-color: azure;
+  }
